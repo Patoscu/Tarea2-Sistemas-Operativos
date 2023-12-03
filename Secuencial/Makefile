@@ -1,5 +1,5 @@
 # Nombre del archivo fuente y del ejecutable
-SOURCE = CodigoOpenMP.cpp
+SOURCE = OpenMP.cpp
 EXECUTABLE = OpenMP
 
 # Compilador a utilizar

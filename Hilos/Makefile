@@ -1,5 +1,5 @@
 # Nombre del archivo fuente y del ejecutable
-SOURCE = CodigoHilos.cpp
+SOURCE = Hilos.cpp
 EXECUTABLE = Hilos
 
 # Compilador a utilizar
