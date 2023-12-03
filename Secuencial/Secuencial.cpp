@@ -47,7 +47,7 @@ int main(int argc, char **argv)
 
     // Calculamos y muestramos el tiempo que se demoro en ejecutar
     auto duration = duration_cast<microseconds>(stop - start);
-    cout << "Tiempo de ejecución: " << duration.count() << " microsegundos" << endl;
+    cout << "Tiempo de ejecución: " << duration.count() << " milisegundos" << endl;
 
     // Guardamos la imagen en escala de grises
     imwrite(argv[2], grayImage);
